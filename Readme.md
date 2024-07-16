@@ -1,10 +1,10 @@
-CLI Simple Calculator: 🧮
-
+**CLI Simple Calculator**: 🧮
+_____________________________
 This project is a simple command-line calculator built in TypeScript using the inquirer library for user input.
 
 
-Features: 🌟
-
+**Features**: 🌟
+________________
 Interactive Interface: The calculator provides a user-friendly interface where users can input numbers and select the desired operation.
 
 Error Handling: It gracefully handles invalid inputs, preventing crashes or unexpected behavior.
@@ -12,32 +12,37 @@ Error Handling: It gracefully handles invalid inputs, preventing crashes or unex
 TypeScript: The entire project is written in TypeScript, ensuring type safety and better code quality.
 
 
-Prerequisites: 🛠️
-
+**Prerequisites**: 🛠️
+_____________________
 Before running the calculator, ensure you have the following installed:
 
-Node.js: To run the calculator, you’ll need Node.js installed on your system. You can download it from nodejs.org.
-TypeScript: The calculator is written in TypeScript, so you’ll need to install TypeScript. Use the following command in your terminal:
-npm install -g typescript
+
+Node.js: To run the game, you’ll need Node.js installed on your system. You can download it from https://nodejs.org.
+
+TypeScript: The game is written in TypeScript, so you’ll need to install TypeScript. Use the following command in your terminal:
+
+`npm install -g typescript`
 
 
-Installation: 🚀
 
+
+**Installation**: 🚀
+____________________
 Clone this repository to your local directory:
 
 git clone https://github.com/HasnainDevMaster/CLI-Simple-Calculator.git
 
 Install the dependencies by running the following command in your terminal (cmd):
 
-npm install
+`npm install`
 
 Additionally, install inquirer for user input prompts:
 
-npm i inquirer
+`npm i inquirer`
 
 
-Example: 🎯
-
+**Example**: 🎯
+_______________
 Enter first number: 10
 Enter second number: 20
 
@@ -59,8 +64,8 @@ Do you want to perform another calculation? (yes/no) "No"
 Thank you for using the calculator!
 
 
-Note: 📝
-
+**Note**: 📝
+____________
 Make sure you have Node.js installed on your machine to run this application.
 This calculator only accepts integers as input.
 Supported basic arithmetic operations: addition, subtraction, multiplication, and division.
