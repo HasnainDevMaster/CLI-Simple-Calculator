@@ -3,6 +3,9 @@
   "version": "1.0.3",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "mrshas-cli-simple-calculator": "index.js"
+  },
   "publishConfig": {
     "access": "public"
   },
