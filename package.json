@@ -1,10 +1,14 @@
 {
   "name": "mrshas-cli-simple-calculator",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "bin": {
     "mrshas-cli-simple-calculator": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HasnainDevMaster/CLI-Simple-Calculator.git"
   },
   "publishConfig": {
     "access": "public"
