@@ -51,6 +51,7 @@ When prompted to install npm packages, press "y" to continue.
 
 **Example**: 🎯
 _______________
+```
 Enter first number: 10
 Enter second number: 20
 
@@ -70,7 +71,7 @@ Result: 5
 Do you want to perform another calculation? (yes/no) "No"
 
 Thank you for using the calculator!
-
+```
 
 **Note**: 📝
 ____________
