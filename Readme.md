@@ -40,6 +40,14 @@ Additionally, install inquirer for user input prompts:
 
 `npm i inquirer`
 
+**Installation: NPM**:
+
+Simply run the following command in your terminal (cmd):
+
+`npx mrshas-cli-simple-calculator`
+
+When prompted to install npm packages, press "y" to continue.
+
 
 **Example**: 🎯
 _______________
